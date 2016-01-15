@@ -74,12 +74,12 @@ Supporting formular substitution with data syntax where:
 	+ 'eval' key contain dictionary for javascript evaluate expression
 	
 Ex: 
-{
-	formular: "=Config!$B$1 * A{row}/Config!$B$2",
-	eval: {
-		"{row}": "data.row"
-	}	
-}
+	{
+		formular: "=Config!$B$1 * A{row}/Config!$B$2",
+		eval: {
+			"{row}": "data.row"
+		}	
+	}
 
 ## Generating reports
 
