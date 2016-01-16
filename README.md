@@ -72,7 +72,7 @@ above.
 Supporting formular substitution with data syntax where:
 
    - `formular` key contain excel formular, 
-    - `eval` key contain dictionary for javascript evaluate expression
+   - `eval` key contain dictionary for javascript evaluate expression
 
 Ex: 
 
